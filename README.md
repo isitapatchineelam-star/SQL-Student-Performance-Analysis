@@ -1,19 +1,17 @@
 # SQL Student Performance Analysis
 
-## Project Overview
-Analyzed 10 student records using Oracle SQL to find class average, average students, and middle-rank students.
+## 📊 Project Screenshots
 
-## Tech Stack
-- Oracle SQL, FreeSQL
-- Concepts: JOIN, Aggregate Functions, Window Functions, CTE
+### 1. Class Average
+![Class Average](1_class_average.png.jpeg)
 
-## Key Queries
-1. *Class Average:* SELECT AVG(marks) FROM CSM_Marks; → Result: 74.4
-2. *Average Students:* Students with marks between 60-80 
-3. *Middle Rank:* Used ROW_NUMBER() to find rank 5 & 6
+### 2. Students with Average Marks 60-80
+![Average Students](2_class_average.png.jpeg)
 
-## Skills Demonstrated
-- Database querying & optimization
-- Data analysis using SQL
-- Problem solving with Window Functions
-- GitHub project deployment
+### 3. Middle Rank Students
+![Middle Rank](3_class_average.png.jpeg)
+
+### 4. Final Table with Category
+![Final Table](4_class_average.png.jpeg)
+
+## ✅ Project Complete
